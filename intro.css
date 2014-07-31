@@ -1,0 +1,27 @@
+
+h1 {
+color:purple
+
+}
+
+h2 {
+font-family: Georgia, Times, serif;
+font-size: 2em;
+}
+
+P {
+color:blue;
+font-family: Georgia, Times, serif;
+font-size: 1.25em;
+}
+
+#footer {
+font-family: arial, verdana, sans-serif;
+font-size: .5em;
+
+}
+
+.smaller {
+font-size: .65em;
+
+}
